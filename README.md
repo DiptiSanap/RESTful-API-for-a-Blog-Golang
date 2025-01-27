@@ -14,7 +14,7 @@ Make sure you have Go installed on your system. You can download and install it 
 
 Clone the repository:
 
-[git clone https://github.com/Asrez/GoAPIBlog.git](https://github.com/DiptiSanap/RESTful-API-for-a-Blog-Golang.git)
+https://github.com/DiptiSanap/RESTful-API-for-a-Blog-Golang.git
 Change to the project directory:
 
 cd GoAPIBlog
