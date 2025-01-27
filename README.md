@@ -19,9 +19,11 @@ https://github.com/DiptiSanap/RESTful-API-for-a-Blog-Golang.git
 Change to the project directory:
 
 cd GoAPIBlog
+
 Install the project dependencies:
 
 go mod download
+
 Set up the environment variables:
 
 Create a .env file in the root directory of the project.
