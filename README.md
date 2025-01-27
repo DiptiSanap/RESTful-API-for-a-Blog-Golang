@@ -37,6 +37,7 @@ DB_USER=your_database_user
 DB_PASSWORD=your_database_password
 DB_NAME=your_database_name
 JWT_SECRET=your_jwt_secret
+
 Build and run the application:
 
 go build
